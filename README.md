@@ -1,39 +1,36 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:003b25,70:00cc66,100:000000&height=220&section=header&text=AHMAD%20NADEEM&fontSize=55&fontColor=00FF88&animation=fadeIn&fontAlignY=40&desc=THE%20MIND%20BEHIND%20THE%20CODE&descSize=15&descColor=ffffff&descAlignY=60" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:2563EB,50:7C3AED,100:06B6D4&text=AHMAD%20NADEEM&fontSize=55&fontColor=FFFFFF&animation=fadeIn&stroke=FFFFFF&strokeWidth=1"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=700&color=00FF88&center=true&vCenter=true&width=650&lines=%3E+Frontend+Developer;%3E+Creative+Web+Designer;%3E+HTML+%7C+CSS+%7C+JavaScript;%3E+Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&width=650&lines=Frontend+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Modern+Web+Experiences;Creative+UI+%2F+UX+Designer" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&logo=statuspage&logoColor=black"/>
-<img src="https://img.shields.io/badge/ROLE-FRONTEND_DEV-00ff88?style=for-the-badge&logo=codeforces&logoColor=black"/>
+<a href="https://github.com/AhmadNadeemDev">
+<img src="https://img.shields.io/badge/GitHub-AhmadNadeemDev-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
 ---
 
-## ◈ ABOUT ME
+## 👨‍💻 ABOUT ME
 
 ```javascript
-class Developer {
-  constructor() {
-    this.name = "Ahmad Nadeem";
-    this.role = "Frontend Web Developer";
-    this.skills = ["HTML", "CSS", "JavaScript"];
-    this.mission = "Create. Innovate. Develop.";
-  }
+const AhmadNadeem = {
+  name: "Ahmad Nadeem",
+  role: "Frontend Web Developer",
+  skills: ["HTML5", "CSS3", "JavaScript"],
+  interests: ["Web Design", "UI/UX", "AI"],
+  goal: "Creating Amazing Digital Experiences",
+  learning: "Always Improving 🚀"
+};
 
-  introduce() {
-    return "Welcome to my digital world!";
-  }
-}
-
-const Ahmad = new Developer();
+console.log("Welcome to my profile!");
 ```
 
-## ◈ MY TECHNOLOGIES
+## 💎 MY TECH STACK
 
 <div align="center">
 
@@ -41,23 +38,41 @@ const Ahmad = new Developer();
 
 </div>
 
-## ◈ MY DEVELOPER MINDSET
+## 🚀 WHAT I DO
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=550&lines=Think+Different.;Write+Clean+Code.;Build+Creative+Projects.;Never+Stop+Learning." />
+| 🌐 Web Development | 🎨 UI / UX Design |
+|:---:|:---:|
+| Responsive Websites | Modern Interfaces |
+| Clean HTML & CSS | Creative Layouts |
+| JavaScript Projects | User-Friendly Design |
 
 </div>
 
-## ◈ GITHUB PERFORMANCE
+## ⚡ MY CODING PHILOSOPHY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmadNadeemDev&show_icons=true&theme=transparent&title_color=00ff88&icon_color=00ff88&text_color=ffffff&border_color=00ff88"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Design+with+Creativity;Develop+with+Passion;Learn+Something+New+Every+Day;Build+Something+Amazing" />
 
-<br/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNadeemDev&layout=compact&theme=transparent&title_color=00ff88&text_color=ffffff&border_color=00ff88"/>
+## 📊 GITHUB STATS
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhmadNadeemDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNadeemDev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+## 🐍 CONTRIBUTION ANIMATION
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
@@ -65,10 +80,10 @@ const Ahmad = new Developer();
 
 <div align="center">
 
-### `01000001 01001000 01001101 01000001 01000100`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=120&section=footer"/>
 
-**⚡ CODE IS MY CREATION. INNOVATION IS MY PASSION.**
+### 💙 DESIGN • DEVELOP • INNOVATE
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00cc66,100:000000&height=130&section=footer" width="100%"/>
+**Thanks for Visiting My Profile!**
 
 </div>
