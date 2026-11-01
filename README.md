@@ -1,70 +1,74 @@
 
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmad+Nadeem;Frontend+Web+Developer;Creative+Web+Designer;Welcome+To+My+GitHub!" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:003b25,70:00cc66,100:000000&height=220&section=header&text=AHMAD%20NADEEM&fontSize=55&fontColor=00FF88&animation=fadeIn&fontAlignY=40&desc=THE%20MIND%20BEHIND%20THE%20CODE&descSize=15&descColor=ffffff&descAlignY=60" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=700&color=00FF88&center=true&vCenter=true&width=650&lines=%3E+Frontend+Developer;%3E+Creative+Web+Designer;%3E+HTML+%7C+CSS+%7C+JavaScript;%3E+Turning+Ideas+Into+Reality" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:003300,100:00FF41&height=3&section=header" />
-
-### 💻 Frontend Web Developer
-
-**Turning Ideas Into Digital Reality 🚀**
-
-[![GitHub](https://img.shields.io/badge/GitHub-AhmadNadeemDev-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AhmadNadeemDev)
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&logo=statuspage&logoColor=black"/>
+<img src="https://img.shields.io/badge/ROLE-FRONTEND_DEV-00ff88?style=for-the-badge&logo=codeforces&logoColor=black"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## ◈ ABOUT ME
 
 ```javascript
-const ahmad = {
-    name: "Ahmad Nadeem",
-    role: "Frontend Web Developer",
-    skills: ["HTML", "CSS", "JavaScript"],
-    interests: ["Web Development", "Cyber Security", "AI"],
-    goal: "Building Amazing Digital Experiences"
-};
+class Developer {
+  constructor() {
+    this.name = "Ahmad Nadeem";
+    this.role = "Frontend Web Developer";
+    this.skills = ["HTML", "CSS", "JavaScript"];
+    this.mission = "Create. Innovate. Develop.";
+  }
+
+  introduce() {
+    return "Welcome to my digital world!";
+  }
+}
+
+const Ahmad = new Developer();
 ```
 
-## ⚡ My Skills
+## ◈ MY TECHNOLOGIES
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</p>
+<div align="center">
 
-## 🚀 What I'm Doing
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
 
-- 🌐 Creating modern websites
-- 🎨 Designing attractive user interfaces
-- 💻 Learning advanced JavaScript
-- 🔐 Exploring Cyber Security
-- 🌱 Improving my development skills
+</div>
 
-## 📊 GitHub Statistics
+## ◈ MY DEVELOPER MINDSET
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhmadNadeemDev&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNadeemDev&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
+<div align="center">
 
-## 🐍 Contribution Animation
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=550&lines=Think+Different.;Write+Clean+Code.;Build+Creative+Projects.;Never+Stop+Learning." />
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
+</div>
+
+## ◈ GITHUB PERFORMANCE
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AhmadNadeemDev&show_icons=true&theme=transparent&title_color=00ff88&icon_color=00ff88&text_color=ffffff&border_color=00ff88"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNadeemDev&layout=compact&theme=transparent&title_color=00ff88&text_color=ffffff&border_color=00ff88"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💚 CODE • CREATE • INNOVATE
+### `01000001 01001000 01001101 01000001 01000100`
 
-**Thanks for Visiting My Profile!**
+**⚡ CODE IS MY CREATION. INNOVATION IS MY PASSION.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00cc66,100:000000&height=130&section=footer" width="100%"/>
 
 </div>
